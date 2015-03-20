@@ -45,6 +45,6 @@
 export HADOOP_CONF_DIR=$HADOOP_HOME/conf
 #export SPARK_MASTER_OPTS="-spark.worker.timeout=300"
 export SPARK_WORKER_CORES=2
-export SPARK_WORKER_MEMORY="8g"
+export SPARK_WORKER_MEMORY="6g"
 export SPARK_WORKER_DIR="/filer/tmp1/yw298/spark/work"
 #export SPARK_WORKER_OPTS="-spark.worker.cleanup.interval=3600"
