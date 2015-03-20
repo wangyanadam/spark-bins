@@ -1,4 +1,4 @@
-This repository maintains configuration files for setting up the Spark environment on Rutgers research clusters.
+This repository maintains configuration files for setting up the Spark environment on Rutgers research clusters. Some commonly used configuration files are listed below:
 
 './clean-spark.sh' <-> a script clears all memory & disk space usage (i.e. logs tmps and interm data) by Spark.
 
